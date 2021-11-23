@@ -1,2 +1,2 @@
 # ESSO
-Impresso Esso Token
+Impresso Esso ECR-20 Token
